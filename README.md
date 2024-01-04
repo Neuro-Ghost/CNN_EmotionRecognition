@@ -25,7 +25,9 @@ Depending on your enviroment I uploaded .py and .pynb scripts
 
   6. Test different emotions on the camera and see how accurate the model performs
 
-  7. Due to dataset imbalances, Model is expected to perform well on happy, sad, angry, surprise neutral but poorly on disgust and fear.  
+  7. Due to dataset imbalances, Model is expected to perform well on happy, sad, angry, surprise neutral but poorly on disgust and fear.
+
+     It is recommended to use PyCharm IDE when runing the .py scripts
 
 # Contributions
 Feel free to contriubte by possibly: 
