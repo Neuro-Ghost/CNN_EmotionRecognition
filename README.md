@@ -28,7 +28,11 @@ Depending on your enviroment I uploaded .py and .pynb scripts
   7. Due to dataset imbalances, Model is expected to perform well on happy, sad, angry, surprise neutral but poorly on disgust and fear.
 
      It is recommended to use PyCharm IDE when runing the .py scripts
-
+# Potential Application
+### Mental Health Monitoring
+Aids therapists in tracking patient emotions during therapy sessions, detects stress levels, and contributes to mental health applications.
+### Automotive Industry
+Improves driver safety through emotion-aware systems that monitor emotional states, alerting drivers to signs of fatigue, stress, or distraction.
 # Contributions
 Feel free to contriubte by possibly: 
 - Modifying CNN architecture
