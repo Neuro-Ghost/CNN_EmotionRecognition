@@ -8,6 +8,7 @@ pip install numpy opencv-python matplotlib keras
 ```
 # Dataset
 FER-2013, Kaggle Link: https://www.kaggle.com/datasets/msambare/fer2013
+![image](https://github.com/Neuro-Ghost/CNN_EmotionRecognition/assets/104577834/6074a381-bd58-4efe-bb43-2a1ea9c8769f)
 
 # .ipynb and .py scripts
 Depending on your enviroment I uploaded .py and .pynb scripts 
