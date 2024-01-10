@@ -49,3 +49,4 @@ Feel free to contriubte by possibly:
 
 # References
 - https://www.analyticsvidhya.com/blog/2021/11/facial-emotion-detection-using-cnn/
+- Cakmak, B., & Develi, I. (2023). Convolutional Neural Network-Based Classification of Facial Emotional Expressions and Computational Complexity Analysis. In Proceedings of the 1st International Conference on Frontiers in Academic Research
